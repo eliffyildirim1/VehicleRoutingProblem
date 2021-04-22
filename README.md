@@ -13,9 +13,7 @@ The research work on Capacitated Vehicle Routing Problem (C-VRP) solving via Art
 ![](output/images/history_n35-k5.vrp.png)
 **And solution (200 epochs):**
 ![](output/images/afterABC_n35-k5.vrp.png)
-**Reference**:
-[An artificial bee colony algorithm for the capacitated
-vehicle routing problem](http://citeseerx.ist.psu.edu/viewdoc/downloa[d?doi=10.1.1.457.8027&rep=rep1&type=pdf)
+
 
 # A-benchmarks
 
